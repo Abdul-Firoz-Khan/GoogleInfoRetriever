@@ -13,5 +13,5 @@ This project is a simple Selenium Java program to retrieve the title, URL, and s
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/google-info-retriever.git
-   cd google-info-retriever
+   git clone https://github.com/Abdul-Firoz-Khan/GoogleInfoRetriever.git
+   cd GoogleInfoRetriever
