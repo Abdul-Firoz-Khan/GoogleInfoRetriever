@@ -9,7 +9,7 @@ public class GoogleInfoRetriever {
         // Setup WebDriverManager
         WebDriverManager.firefoxdriver().setup();
 
-        // Create a new instance of ChromeDriver
+        // Create a new instance of FirefoxDriver
         WebDriver driver = new FirefoxDriver();
 
         try {
